@@ -2093,7 +2093,7 @@ case 'command':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsg = {
  buttonText: '𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨',
- footerText: '𝙰𝙹𝚄 𝚂𝙴𝚁',
+ footerText: '᥅ꪖꫝꫀꫀᦓ',
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
@@ -2161,7 +2161,7 @@ case 'group':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsgg = {
  buttonText: 'CLICK HERE',
- footerText: '𝙰𝙹𝚄 𝚂𝙴𝚁',
+ footerText: '🤹🏻‍♀️🎩𝄠࿑᥅ꪖꫝꫀꫀᦓ❥࿑𝄠🎩🤹🏻‍♂️',
  description: `OPEN OR CLOSE GROUP`,
  sections: [
                      {
@@ -2197,7 +2197,7 @@ menu = `︎𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}𝙩𝙬𝙞𝙩𝙩𝙚𝙧 <𝙪𝙧𝙡>
 `
-sendButMessage(from, menu, `𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, `᥅ꪖꫝꫀꫀᦓ`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2248,7 +2248,7 @@ menu = `𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎︎
 
 ❑${prefix}kickarea
 `
-sendButMessage(from, menu, ` 𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, ` ᥅ꪖꫝꫀꫀᦓ`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2311,7 +2311,7 @@ menu = `𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}colongsw [reply sw]
 `
-sendButMessage(from, menu, `𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, `᥅ꪖꫝꫀꫀᦓ`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2334,7 +2334,7 @@ menu = `シ︎𝘜𝘱𝘴𝘸 𝘔𝘦𝘯𝘶シ︎
 
 ❑${prefix}upswlocation
 `
-sendButMessage(from, menu, ` 𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, ` ᥅ꪖꫝꫀꫀᦓ`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2423,7 +2423,7 @@ menu = `𝘖𝘵𝘩𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}playstore <query>
 `
-sendButMessage(from, menu, ` 𝙰𝙹𝚄 𝚂𝙴𝚁`, [
+sendButMessage(from, menu, ` ᥅ꪖꫝꫀꫀᦓ`, [
           {
             buttonId: `command`,
             buttonText: {
